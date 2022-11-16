@@ -5,7 +5,10 @@
 
 body {
 font-family: var(--font-style);
-background-color: rgb(22, 162, 187);
+background-color: rgb(83, 238, 83);
+display: flex;
+justify-content: center;
+align-items: center;
 }
 
 ul {
@@ -17,7 +20,7 @@ list-style: none;
 padding: 25px 0;
 border-radius: 25px;
 border: 0.1px solid #099fff;
-background-color: blueviolet;
+background-color: rgb(108, 137, 145);
 box-shadow: 0 4px 8px 0 #00FFFF, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
